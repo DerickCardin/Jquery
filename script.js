@@ -22,3 +22,42 @@
 
 //$("img[alt=quote]").css({border: "2px solid purple"});
 
+//Lesson 7
+//$("#contact-methods").next().css({border:"3px solid red"});
+
+//$("#social-nav").prev().css({border:"3px solid blue"});
+
+//$(".banner-title").parents().css({border: "3px solid pink"});
+
+//$("#social-nav").children().css({border: "3px solid green"});
+
+//$("#contact").find(".facebook").css({border: "3px solid purple"});
+
+//$("#social-nav").closest(".wrapper").css({border: "3px solid orange"});
+
+//Lesson 8
+//$("#contact-methods").css({border: "2 px solid red"})
+//.next().css({border: "2px solid green"})
+//.closest("section").css({border: "2px solid blue"});
+
+//Lesson 9
+//var tweet = "<div style='margin: 20px 0; padding: 10px; background: #eee'>The big fight live: Man vs Cheese!</div>";
+
+//$("tweets div").append(tweet);
+
+//$("tweets div").prepend(tweet);
+
+//$("tweets p").before(tweet);
+
+//$("tweets p").after(tweet);
+
+//$("tweets div").html(tweet);
+
+//$("tweets p").text(tweet);
+
+//.append()
+//.prepend()
+//.before()
+//.after()
+//.html()
+//.text()
