@@ -108,18 +108,51 @@
 //$(".button").remove();
 //$("#contact img").remove();
 
+//Lesson 12
+//.removeAttr()
+//.attr()
+
+//$("#contact img").removeAttr("alt");
+//$("#contact img").attr("alt", "location");
+//console.log($("#contact img").attr("alt"));
 
 
 
 
 
+//Lesson 13
+//$("#social-nav").css({
+// "top" : "-400px",
+// "left" : "150",
+// "opactiy" : "0.5",
+// "border-top" : "4px solid red"
+//});
 
+//Lesson 14
+//removeClass()
+//addClass()
+//toggleClass()
 
+//$("header .wrapper").removeClass("wrapper");
+//$("header > div").addClass("wrapper");
 
+//var button = $("lead-banner a");
+//button[0].onClick= function(){
+// $("points-of-sale").toggleClass("open");
+// return false;
+//};
 
+//Lesson 15
+//on()
+//off()
 
-
-
+//var myLis = $("points-of-sale li");
+//myLis.on("click", function(){
+// $(this).css({"background" : "pink"});
+ 
+// myLis.off("click");
+ 
+//});
 
 
 
